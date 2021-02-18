@@ -123,7 +123,7 @@ https://github.com/hedongshu/miniapp-coupons​github.com
 
 ## 效果展示
 
-![二维码](https://github.com/hedongshu/miniapp-coupons/blob/main/IMG_7327.JPG)
+![二维码](https://ae01.alicdn.com/kf/Ue20e3cca3d7347e28302e69f0f218277Y.jpg)
 ![展示](https://github.com/hedongshu/miniapp-coupons/blob/main/IMG_7326.PNG)
 
 
